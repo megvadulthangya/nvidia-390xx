@@ -9,11 +9,11 @@
 # Contributor: Dede Dindin Qudsy <xtrymind+gmail+com>
 # Contributor: Ike Devolder <ike.devolder+gmail+com>
 
-_linuxprefix=linux71
+_linuxprefix=linux74
 
 pkgname="${_linuxprefix}-nvidia-390xx"
 pkgver=390.157
-pkgrel=28
+pkgrel=10
 pkgdesc="NVIDIA kernel modules for ${_linuxprefix}"
 arch=('x86_64')
 url="https://www.nvidia.com/"
